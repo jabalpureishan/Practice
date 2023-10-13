@@ -18,3 +18,4 @@ int main(){
     printf("\ngiven float input: %f",f);
     return 0;
 }
+
